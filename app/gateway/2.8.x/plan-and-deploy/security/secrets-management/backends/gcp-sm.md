@@ -93,3 +93,4 @@ environment variable.
 {vault://my-gcp-sm-vault/my-secret-name/foo}
 {vault://my-gcp-sm-vault/my-secret-name/snap}
 ```
+
